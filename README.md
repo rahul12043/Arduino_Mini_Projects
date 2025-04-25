@@ -13,7 +13,10 @@ Welcome to the **Arduino Mini Projects** repository! In this repo, I'll be addin
 3. **OpenCV Capture through Arduino** 📸  
    This project integrates Arduino with OpenCV to capture an image when a specific signal is sent from Arduino. The Arduino sends a "Movement" signal with the help of the UltraSonic sensor to trigger the camera to take a picture using OpenCV, which is then saved and displayed. This project demonstrates how Arduino can be used to control computer peripherals like a camera!
 
-https://github.com/user-attachments/assets/7cf8d6a7-f06f-4762-a8fb-0be7f87802b4
+<video width="640" height="360" controls>
+  <source src="https://github.com/user-attachments/assets/7cf8d6a7-f06f-4762-a8fb-0be7f87802b4" type="video/mp4">
+ Your browser does not support the video tag.
+</video>
 *Demo of the image capturing through OpenCV*
 
 
